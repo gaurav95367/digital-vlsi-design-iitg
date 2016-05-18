@@ -8,7 +8,7 @@
   - Processor:i7
 
 * Objective
-  - To view the Theory of the 4x1  Identification_of_Prehistoric_handaxe experiment
+  - To view the Theory of the Identification_of_Prehistoric_handaxe experiment
 
 * Pre conditions
   - Refer to first test case [ Identification_of_Prehistoric_handaxe_01_usuability.org]
