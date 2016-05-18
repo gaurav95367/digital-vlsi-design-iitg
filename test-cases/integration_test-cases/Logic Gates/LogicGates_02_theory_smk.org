@@ -6,7 +6,7 @@
   - Bandwidth : 100Mbps
   - Hardware Configuration:8GB RAM , 
   - Processor:i7
-
+*gaurav anand is  great
 * Objective
   - To view the Theory of the Logic Gates experiment
 
