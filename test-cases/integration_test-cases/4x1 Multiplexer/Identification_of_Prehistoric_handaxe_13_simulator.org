@@ -1,0 +1,25 @@
+* Author: GAURAV ANAND
+* Date Created: 20 May 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To perform the Experiment of the Identification_of_Prehistoric_handaxe experiment
+
+* Pre conditions
+  - Refer to first test case [Identification_of_Prehistoric_handaxe_01_usuability.org] 
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Click on "  Stone tool Test 1 Click here" link
+
+
+* Expected result
+  1.user should be redireted to "http://anthropology-iitg.virtual-labs.ac.in/Experiments/finalstone1.swf"
+
+* Review comments
