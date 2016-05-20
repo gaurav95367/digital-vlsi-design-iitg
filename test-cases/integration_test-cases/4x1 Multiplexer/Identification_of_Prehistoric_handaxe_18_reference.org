@@ -1,5 +1,5 @@
-* Author: BIJU DAS
-* Date Created: 02 Mar 2016
+* Author: GAURAV ANAND
+* Date Created: 20 May 2016
 * Environment
   - OS: Windows 7,Ubuntu-16.04,CentOS-6
   - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
@@ -8,10 +8,10 @@
   - Processor:i7
 
 * Objective
-  - To view the Reference of the 4x1 Multiplexer experiment
+  - To view the Reference of the Identification_of_Prehistoric_handaxe experiment
 
 * Pre conditions
-  - Refer to first test case [[https://github.com/Virtual-Labs/digital-vlsi-design-iitg/blob/master/Test%20Cases/Integration%20Test%20Cases/4x1%20Multiplexer/Multiplexer_01_usability_smk.org][Multiplexer_01_usability_smk.org]] 
+  - Refer to first test case [ Identification_of_Prehistoric_handaxe_01_usuability.org] 
 
 * Post conditions
    - Nil
