@@ -1,5 +1,5 @@
 * Author: GAURAV ANAND
-* Date Created: 18 May 2016
+* Date Created: 1 June 2016
 * Environment
   - OS: Windows 7,Ubuntu-16.04,CentOS-6
   - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
@@ -13,8 +13,8 @@
 * Pre conditions
   1. Open the url vlabs.ac.in and vlabs home page will be displayed 
   2. Click on IIT-Guwahati and a list of labs will be displayed on the screen 
-  3. Select Virtual Anthropology Lab, a home page will be displayed and click on List of experiments link,  where a list of experiments will be displayed on the screen
-  4. Select  "Identification of Prehistoric handaxe" experiment.
+  3. SelectElectrical Machines Laboratory Lab, a home page will be displayed and click on List of experiments link,  where a list of experiments will be displayed on the screen
+  4. Select  "Magnetic Field Behaviour in Single Coil" experiment.
 * Post conditions
    - Nil
 * Test Steps
