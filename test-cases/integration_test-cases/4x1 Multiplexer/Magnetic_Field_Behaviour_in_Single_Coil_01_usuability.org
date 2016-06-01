@@ -13,7 +13,7 @@
 * Pre conditions
   1. Open the url vlabs.ac.in and vlabs home page will be displayed 
   2. Click on IIT-Guwahati and a list of labs will be displayed on the screen 
-  3. SelectElectrical Machines Laboratory Lab, a home page will be displayed and click on List of experiments link,  where a list of experiments will be displayed on the screen
+  3. Select Electrical Machines Laboratory Lab, a home page will be displayed and click on List of experiments link,  where a list of experiments will be displayed on the screen
   4. Select  "Magnetic Field Behaviour in Single Coil" experiment.
 * Post conditions
    - Nil
